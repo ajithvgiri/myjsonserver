@@ -203,16 +203,7 @@
         "title": "The Northern Winter Hexagon",
         "url": "https://apod.nasa.gov/apod/image/1912/Orava_Duskova_WinterHexagon_0.jpg"
     },
-    {
-        "copyright": "Majid Ghohroodi",
-        "date": "2019-12-27",
-        "explanation": "What's happened to the Sun?  Yesterday, if you were in the right place at the right time, you could see the Sun rise partially eclipsed by the Moon. The unusual sight was captured in dramatic fashion in the featured image not only directly, in a sequence of six images, but also in reflection from Soltan Salt Lake in Iran. The almost-white Sun appears dimmer and redder near the horizon primarily because Earth's atmosphere preferentially scatters away more blue light.  Yesterday's partial solar eclipse appeared in the sky over much of Asia and Australia, but those with a clear enough sky in a thin band across the Earth's surface were treated to a more complete annular solar eclipse -- where the Moon appears completely surrounded by the Sun in what is known as a ring of fire. The next annular solar eclipse will occur in 2020 June.   Notable Images Submitted to APOD: The Partial Solar Eclipse of 2019 December",
-        "hdurl": "https://apod.nasa.gov/apod/image/1912/PartialSolar_Ghohroodi_1312.jpg",
-        "media_type": "image",
-        "service_version": "v1",
-        "title": "A Partial Solar Eclipse Sequence Reflected",
-        "url": "https://apod.nasa.gov/apod/image/1912/PartialSolar_Ghohroodi_960.jpg"
-    },
+    
     {
         "copyright": "Elias Chasiotis",
         "date": "2019-12-28",
@@ -222,25 +213,6 @@
         "service_version": "v1",
         "title": "A Distorted Sunrise Eclipse",
         "url": "https://apod.nasa.gov/apod/image/1912/DistortedSunrise_Chasiotis_1080.jpg"
-    },
-    {
-        "date": "2019-12-29",
-        "explanation": "If this is Saturn, where are the rings?  When Saturn's \"appendages\" disappeared in 1612, Galileo did not understand why.   Later that century, it became understood that Saturn's unusual protrusions were rings and that when the Earth crosses the ring plane, the edge-on rings will appear to disappear.  This is because Saturn's rings are confined to a plane many times thinner, in proportion, than a razor blade.  In modern times, the robot Cassini spacecraft orbiting Saturn frequently crossed Saturn's ring plane during its mission to Saturn, from 2004 to 2017.  A series of plane crossing images from 2005 February was dug out of the vast online Cassini raw image archive by interested Spanish amateur Fernando Garcia Navarro.  Pictured here, digitally cropped and set in representative colors, is the striking result.  Saturn's thin ring plane appears in blue, bands and clouds in Saturn's upper atmosphere appear in gold. Details of Saturn's rings can be seen in the high dark shadows across the top of this image, taken back in 2005. The moons Dione and Enceladus appear as bumps in the rings.    Free Presentation: APOD Editor to show best astronomy images of 2019 -- and the decade -- in NYC on January 3",
-        "hdurl": "https://apod.nasa.gov/apod/image/1912/saturnplane_cassini_1004.jpg",
-        "media_type": "image",
-        "service_version": "v1",
-        "title": "Cassini Spacecraft Crosses Saturn's Ring Plane",
-        "url": "https://apod.nasa.gov/apod/image/1912/saturnplane_cassini_1004.jpg"
-    },
-    {
-        "copyright": "Stanislav Volskiy",
-        "date": "2019-12-30",
-        "explanation": "The beautiful Trifid Nebula, also known as Messier 20, is easy to find with a small telescope in the nebula rich constellation Sagittarius. About 5,000 light-years away, the colorful study in cosmic contrasts shares this well-composed, nearly 1 degree wide field with open star cluster Messier 21 (top left). Trisected by dust lanes the Trifid itself is about 40 light-years across and a mere 300,000 years old. That makes it one of the youngest star forming regions in our sky, with newborn and embryonic stars embedded in its natal dust and gas clouds. Estimates of the distance to open star cluster M21 are similar to M20's, but though they share this gorgeous telescopic skyscape there is no apparent connection between the two. In fact, M21's stars are much older, about 8 million years old.",
-        "hdurl": "https://apod.nasa.gov/apod/image/1912/M20_volskiy.jpg",
-        "media_type": "image",
-        "service_version": "v1",
-        "title": "Messier 20 and 21",
-        "url": "https://apod.nasa.gov/apod/image/1912/M20_volskiy1024.jpg"
     },
     {
         "copyright": "Rui Liao",
